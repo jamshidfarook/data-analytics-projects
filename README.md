@@ -1,10 +1,10 @@
-# 📊 Data Analytics Projects
+# Data Analytics Projects
 
-A collection of data analytics projects showcasing expertise in Power BI, Tableau, SQL, Python, and business reporting. Each folder includes end-to-end analysis — from data cleaning and transformation to visualization and actionable insights.
+A collection of data analytics projects showcasing expertise in Power BI, Tableau, SQL, Python, and business reporting. Each folder includes end-to-end analysis, from data cleaning and transformation to visualization and actionable insights.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Power BI  
 - Tableau  
@@ -14,7 +14,7 @@ A collection of data analytics projects showcasing expertise in Power BI, Tablea
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Transform raw data into meaningful insights  
 - Build interactive and insightful dashboards  
@@ -23,13 +23,13 @@ A collection of data analytics projects showcasing expertise in Power BI, Tablea
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This repository serves as a professional portfolio of my data analytics work.  
 Each project demonstrates problem-solving, analytical thinking, and the ability to turn data into actionable business insights.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
