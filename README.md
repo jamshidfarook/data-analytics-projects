@@ -4,25 +4,6 @@ A collection of data analytics projects showcasing expertise in Power BI, Tablea
 
 ---
 
-## Tools & Technologies
-
-- Power BI  
-- Tableau  
-- SQL  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Microsoft Excel  
-
----
-
-## Objectives
-
-- Transform raw data into meaningful insights  
-- Build interactive and insightful dashboards  
-- Apply data cleaning and transformation techniques  
-- Communicate findings clearly through visualization and reporting  
-
----
-
 ## About This Repository
 
 This repository serves as a professional portfolio of my data analytics work.  
