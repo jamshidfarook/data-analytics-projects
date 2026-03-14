@@ -1,0 +1,13 @@
+Business Performance Overview
+
+
+| Color                        | Hex     |
+| ---------------------------- | ------- |
+| Light gray background        | #E7E6EC |
+| Header dark navy             | #26293A |
+| Blue                         | #0867FB |
+| Green / teal                 | #0CA989 |
+| Orange-red                   | #FC5E3B |
+| Yellow / amber               | #FDA91C |
+| Purple                       | #7634A8 |
+| Blue (darker)                | #032AA1 |
